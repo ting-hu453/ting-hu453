@@ -30,20 +30,6 @@
         "Database Design and Implementation",
         "Real-Time Embedded Systems Programming"
       ]
-    },
-    {
-      "company": "University of Connecticut",
-      "major":"Web Full-Stack Developer Bootcamp",
-      "minor":"",
-      "description": "",
-      "years": "July 2021 - January 2022",
-      "mainTech": [
-        "Software Engineering"
-      ],
-      "technologies": [
-        "Web Development",
-        "Web Services"
-      ]
     }
 
   ],

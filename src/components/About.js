@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
+import vueIcon from "@iconify/icons-logos/vue";
 import csharpIcon from "@iconify/icons-logos/c-sharp";
-import cplusplusIcon from "@iconify/icons-logos/c-plusplus";
 
 class About extends Component {
   render() {
@@ -34,15 +34,15 @@ class About extends Component {
                   />
                   <Icon
                     icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "400%", margin: "9% 0 0 5%" }}
+                  />
+                  <Icon
+                    icon={vueIcon}
+                    style={{ fontSize: "400%", margin: "9% 0 0 5%" }}
                   />
                   <Icon
                     icon={csharpIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={cplusplusIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "400%", margin: "9% 0 0 5%" }}
                   />
                 </span>
               </div>

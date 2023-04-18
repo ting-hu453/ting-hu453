@@ -54,6 +54,11 @@
         "level": "80"
       },
       {
+        "name": "Vue",
+        "class": "devicon-vuejs-plain",
+        "level": "80"
+      },
+      {
         "name":"Node.js",
         "class":"devicon-nodejs-plain"
       },
